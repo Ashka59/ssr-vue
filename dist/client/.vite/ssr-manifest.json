@@ -1,0 +1,43 @@
+{
+  "\u0000plugin-vue:export-helper": [],
+  "\u0000vite/modulepreload-polyfill.js": [],
+  "\u0000vite/preload-helper.js": [],
+  "index.html": [],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/vue-router/dist/vue-router.mjs": [],
+  "src/App.vue": [],
+  "src/App.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/App.vue?vue&type=style&index=0&scoped=85852c48&lang.css": [],
+  "src/assets/logo.svg": [],
+  "src/assets/main.css": [],
+  "src/components/HelloWorld.vue": [],
+  "src/components/HelloWorld.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/HelloWorld.vue?vue&type=style&index=0&scoped=a47c673d&lang.css": [],
+  "src/components/TheWelcome.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/WelcomeItem.vue": [],
+  "src/components/WelcomeItem.vue?vue&type=style&index=0&scoped=fd0742eb&lang.css": [],
+  "src/components/icons/IconCommunity.vue": [],
+  "src/components/icons/IconDocumentation.vue": [],
+  "src/components/icons/IconEcosystem.vue": [],
+  "src/components/icons/IconSupport.vue": [],
+  "src/components/icons/IconTooling.vue": [],
+  "src/entry-client.ts": [],
+  "src/main.js": [],
+  "src/router/index.js": [],
+  "src/views/AboutView.vue": [
+    "/assets/AboutView-Dc8DdHGf.js",
+    "/assets/AboutView-C6Dx7pxG.css"
+  ],
+  "src/views/AboutView.vue?vue&type=script&lang.ts": [
+    "/assets/AboutView-Dc8DdHGf.js",
+    "/assets/AboutView-C6Dx7pxG.css"
+  ],
+  "src/views/AboutView.vue?vue&type=style&index=0&lang.css": [
+    "/assets/AboutView-Dc8DdHGf.js",
+    "/assets/AboutView-C6Dx7pxG.css"
+  ],
+  "src/views/HomeView.vue?vue&type=script&setup=true&lang.ts": []
+}
